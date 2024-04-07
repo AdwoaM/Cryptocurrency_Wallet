@@ -109,12 +109,41 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
 ---
+## Streamlit Krypto Job Application: 
+Using the Web3, the Ethereum Blockchain network is integrated and autoamted with generating a digital wallet to send crypto currency payments tp Fintech 
 
+Professionals by accessing Ethereum balances, sign and send transactions via Ganache (a personal ethereum blaockchain).
+
+This video provides a preview of the applications works
+
+[streamlit-krypto_jobs-app.webm](https://github.com/AdwoaM/Cryptocurrency_Wallet/assets/149966206/a1b014c4-aeb1-41d4-a686-9081f33a0f4d)
+
+
+To get the full experience of how the application is used, follow this procedure:
+
+1. Select a preferred Fintech Professional
+   
+2. Enter the number of hours you want to hire the Fintech Professional for 
+
+3. Examine the output 
+
+   * Candidate Name, Hourly Rate, & Ethereum address
+   * Total Wage in Ether provided
+
+4. Hit the Send Transaction button
+
+5. To Evaluate the output:
+
+   * Validate transaction hash 
+   * Open Ganache and review transaction output: 
+     * Balance 
+     * Sender address
+     * To address 
+     * TX hash 
+     * Gas used 
+     * Value in ETH sent 
 ## Submission
 
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
 
